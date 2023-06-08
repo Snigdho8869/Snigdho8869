@@ -1,28 +1,11 @@
-<!--
-**Snigdho8869/Snigdho8869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ![MasterHead](https://futureoflife.org/wp-content/uploads/2018/12/neural-pathways.jpg)
 <h1 align="center">Md Zahidul Islam Snigdho</h1>
 <h3 align="center">A dedicated researcher from Bangladesh with a background in IT (Information Technology) studies</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snigdho8869&label=Profile%20views&color=0e75b6&style=flat" alt="Snigdho8869" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Snigdho8869&theme=onedark" alt="Snigdho8869" /></a> </p>
+
+
 
 - I have developed expertise in multiple programming languages and technologies through my studies and work experience. Currently, I am focusing on my thesis research and working in the field of **Federated Learning**, which involves training machine learning models across distributed devices without sharing raw data. My work in this area includes exploring novel algorithms and architectures, evaluating performance and privacy considerations, and contributing to the development of open-source tools and frameworks. I am excited about the potential of Federated Learning to unlock new opportunities in various applications, such as healthcare, finance, and Internet of Things, and I look forward to further advancing the state of the art in this area.
 
