@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://futureoflife.org/wp-content/uploads/2018/12/neural-pathways.jpg)
 <h1 align="center">Md Zahidul Islam Snigdho</h1>
 <h3 align="center">A dedicated researcher from Bangladesh with a background in IT (Information Technology) studies</h3>
-<img align="right" alt="Coding" width="400" src="https://www.catholicnewsagency.com/storage/image/shutterstock-1154457493.jpg?w=670&h=447">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snigdho8869&label=Profile%20views&color=0e75b6&style=flat" alt="Snigdho8869" /> </p>
 
