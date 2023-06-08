@@ -2,9 +2,7 @@
 <h1 align="center">Md Zahidul Islam Snigdho</h1>
 <h3 align="center">A dedicated researcher from Bangladesh with a background in IT (Information Technology) studies</h3>
 
-
-
-
+<img align="right" alt="Coding" width="400" src="https://www.catholicnewsagency.com/storage/image/shutterstock-1154457493.jpg?w=670&h=447">
 
 
 - I have developed expertise in multiple programming languages and technologies through my studies and work experience. Currently, I am focusing on my thesis research and working in the field of **Federated Learning**, which involves training machine learning models across distributed devices without sharing raw data. My work in this area includes exploring novel algorithms and architectures, evaluating performance and privacy considerations, and contributing to the development of open-source tools and frameworks. I am excited about the potential of Federated Learning to unlock new opportunities in various applications, such as healthcare, finance, and Internet of Things, and I look forward to further advancing the state of the art in this area.
