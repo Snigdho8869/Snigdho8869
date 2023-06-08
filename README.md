@@ -24,9 +24,9 @@
 |---|---|---|---|---|---|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="100" height="100" style="border-radius: 50%">](https://www.php.net) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="100" height="100" style="border-radius: 50%">](https://www.postman.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="100" height="100" style="border-radius: 50%">](https://www.python.org) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit-Learn" width="100" height="100" style="border-radius: 50%">](https://scikit-learn.org/) | [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="100" height="100" style="border-radius: 50%">](https://seaborn.pydata.org/) | [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium" width="100" height="100" style="border-radius: 50%">](https://www.selenium.dev) |
 
-| TensorFlow | 
-|---|
-| [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" title="TensorFlow" width="100" height="100" style="border-radius: 50%">](https://www.tensorflow.org) | 
+| TensorFlow | Flask |
+|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" title="TensorFlow" width="100" height="100" style="border-radius: 50%">](https://www.tensorflow.org) |  [<img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png" alt="flask" title="Flask" width="100" height="100" style="border-radius: 50%">](https://flask.palletsprojects.com/en/2.3.x/) | 
 
 
 
